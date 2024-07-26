@@ -1,4 +1,4 @@
-CREATE TABLE test3
+CREATE TABLE testapurva
 (
   gel_appln_id character varying(25) NOT NULL,
   gel_applndoc_srno integer NOT NULL,
